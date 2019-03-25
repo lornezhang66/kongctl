@@ -1,6 +1,10 @@
 # kongctl
 A CLI For Kong API Gateway &amp; Service Mesh
 
+### ADMIN API VERSION
+
+[https://docs.konghq.com/0.14.x/admin-api/](https://docs.konghq.com/0.14.x/admin-api/)
+
 ### build
 
 ```
@@ -9,6 +13,7 @@ go build -o cmd/kongctl
 ```
 
 ### usage
+
 
 ```
 ./kongctl --help
