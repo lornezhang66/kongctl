@@ -1,7 +1,7 @@
 # kongctl
 A CLI For Kong API Gateway &amp; Service Mesh
 
-### ADMIN API VERSION
+### admin-api docs
 
 [https://docs.konghq.com/0.14.x/admin-api/](https://docs.konghq.com/0.14.x/admin-api/)
 
