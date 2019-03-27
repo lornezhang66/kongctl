@@ -32,7 +32,7 @@ COMMANDS:
      plugin       The kong plugin object.
      route        The kong route object.
      service      the kong service object.
-     target       The kong sni object.
+     snis         The kong sni object.
      target       The kong target object.
      upstream     The kong upstream object.
      help, h      Shows a list of commands or help for one command
